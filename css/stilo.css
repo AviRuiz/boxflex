@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box ;
+}
+.box{
+    background-color: rgba(113, 221, 225, 0.788);
+    display: flex;
+   flex-flow: row-reverse wrap;
+    justify-content:space-evenly;
+    width: 33%;
+} 
+main{
+    width: 80%;
+    margin: auto;
+    height:50vh 
+}
+
+.img1{
+    align-items: center;
+    border-radius: 50%;
+   
+}
+.parrafo{
+    text-align: justify;
+    padding: 10px;
+    font-size: 16px;
+    border-style: dashed;
+    box-shadow: 0px 0px 10px;
+
+}
+.box div iframe{
+    border-style: dashed;
+    box-shadow: 0px 0px 10px;
+    width: 100%;
+
+}
+
+
+
+
+
+
